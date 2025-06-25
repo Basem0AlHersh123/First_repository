@@ -1,0 +1,1 @@
+The code is to clean text that was taken from AIs like deep seek, chatGPT, or whatever which usually contains hashes, slashes,etc. Just by copying and pasting the text to a text file and importing from this code, it will clean for you.
